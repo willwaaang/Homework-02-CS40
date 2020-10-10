@@ -17,7 +17,7 @@ I utlized a scatter plot to compare sodium levels and calories amongst various p
 
 Higher sodium levels don't seem to necessarily indicate higher calories, and lower sodium levels don't seem to indicate that calories will be any lower than usual.
 
-I came across a website with a plethora of sample data sets to view. [Check it out!](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets).
+I came across a website with a plethora of sample data sets to view. [Check it out!](https://perso.telecom-paristech.fr/eagan/class/igr204/datasets)
 
 <h3>FYI:
 I utlized .csv data sets as they were easy to implement.</h3>
