@@ -8,7 +8,7 @@ The data I have plotted here compares population growth in the United States com
 
 I found this data set by scouting the internet. I came across a data visualization website with sample population data [here](https://www.csdojo.io/data). I cross-checked the information shown in the data set, and it seems to be mostly correct. 
 
-<h2>Graph 1: Comparing Sodium and Calories amongst Popular Cereal Brands</h2>
+<h2>Graph 2: Comparing Sodium and Calories amongst Popular Cereal Brands</h2>
 
 
 ![cereal graph](cereal.png)
